@@ -1,0 +1,1 @@
+.sql and .php files uploading perfectly.
